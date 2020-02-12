@@ -1,6 +1,6 @@
 {
   "name": "@livechat/angular-widget",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Maciej Kurasadowicz<m.kurasadowicz@gmail.com>",
   "description": "Angular component to integrate LiveChat with your single-page app",
   "license": "MIT",
